@@ -1,0 +1,323 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 深岩银河 (Deep Rock Galactic) 中文词库
+# 适用于Rime输入法
+# 基于游戏官方简体中文翻译整理
+#
+
+---
+name: drg
+version: "2026.02.09"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+# 游戏基础
+深岩银河	shen yan yin he	100
+霍克斯IV	huo ke si IV	99
+霍克斯	huo ke si	99
+卡尔	ka er	98
+石头与岩石	shi tou yu yan shi	97
+任务控制中心	ren wu kong zhi zhong xin	95
+空投舱	kong tou cang	95
+逃生舱	tao sheng cang	95
+太空站	tai kong zhan	94
+深渊酒吧	shen yuan jiu ba	93
+管理层	guan li ceng	92
+
+# 矮人职业
+矮人	ai ren	100
+侦察兵	zhen cha bing	100
+工程兵	gong cheng bing	100
+枪手	qiang shou	100
+钻机手	zuan ji shou	100
+
+# 侦察兵武器
+深核GK2	shen he GK2	90
+M1000经典	M1000 jing dian	90
+DRAK-25电浆卡宾枪	DRAK-25 dian jiang ka bin qiang	90
+应急霰弹枪	ying ji xian dan qiang	89
+朱可夫NUK17	zhu ke fu NUK17	89
+尼桑卡X-80闪电鲨战术弩	ni sang ka X-80 shan dian sha zhan shu nu	89
+抓钩	zhua gou	88
+照明枪	zhao ming qiang	88
+抑制力场发生器	yi zhi li chang fa sheng qi	87
+
+# 工程兵武器
+疣猪自动210霰弹枪	you zhu zi dong 210 xian dan qiang	90
+百万伏特冲锋枪	bai wan fu te chong feng qiang	90
+LOK-1智能步枪	LOK-1 zhi neng bu qiang	90
+深核40mm便携榴弹发射器	shen he 40mm bian xie liu dan fa she qi	89
+裂隙切割器	lie xi qie ge qi	89
+碎片衍射器	sui pian yan she qi	89
+平台枪	ping tai qiang	88
+哨戒炮塔	shao jie pao ta	88
+感应地雷	gan ying di lei	87
+
+# 枪手武器
+铅暴转管机枪	qian bao zhuan guan ji qiang	90
+雷暴云砧重型双管机炮	lei bao yun zhen zhong xing shuang guan ji pao	90
+飓风制导火箭系统	ju feng zhi dao huo jian xi tong	90
+斗牛犬重型左轮手枪	dou niu quan zhong xing zuo lun shou qiang	89
+BRT7连发手枪	BRT7 lian fa shou qiang	89
+武装核心电磁手炮	wu zhuang he xin dian ci shou pao	89
+滑索发射器	hua suo fa she qi	88
+护盾发生器	hu dun fa sheng qi	88
+集束手雷	ji shu shou lei	87
+
+# 钻机手武器
+CRSPR火焰喷射器	CRSPR huo yan pen she qi	90
+急冻喷射炮	ji dong pen she pao	90
+蚀泥喷射泵	shi ni pen she beng	90
+苏巴特120半自动手枪	su ba te 120 ban zi dong shou qiang	89
+实验性等离子蓄能手枪	shi yan xing deng li zi xu neng shou qiang	89
+柯莱特微波烹调者	ke lai te wei bo peng tiao zhe	89
+强化动力钻头	qiang hua dong li zuan tou	88
+炸药包	zha yao bao	88
+冲击飞斧	chong ji fei fu	87
+高爆手雷	gao bao shou lei	87
+神经毒素手雷	shen jing du su shou lei	87
+
+# 通用装备
+十字镐	shi zi gao	95
+激光指示器	ji guang zhi shi qi	94
+地形扫描仪	di xing sao miao yi	94
+照明弹	zhao ming dan	93
+补给仓	bu ji cang	95
+
+# 异虫科
+异虫	yi chong	95
+侦查异虫	zhen cha yi chong	92
+战士异虫	zhan shi yi chong	92
+护卫异虫	hu wei yi chong	91
+刀锋异虫	dao feng yi chong	91
+禁卫异虫	jin wei yi chong	91
+典狱长异虫	dian yu zhang yi chong	91
+暴君异虫	bao jun yi chong	90
+吐丝异虫	tu si yi chong	90
+吐酸异虫	tu suan yi chong	89
+速射酸虫	su she suan chong	89
+蜂拥异虫	feng yong yi chong	89
+镇穴异虫	zhen xue yi chong	89
+自爆异虫	zi bao yi chong	90
+大自爆虫	da zi bao chong	91
+大自爆王虫	da zi bao wang chong	90
+异虫茧	yi chong jian	88
+异虫幼虫	yi chong you chong	88
+异虫母巢	yi chong mu chao	89
+
+# 无畏异虫
+无畏异虫	wu wei yi chong	93
+巢主无畏	chao zhu wu wei	92
+双生无畏	shuang sheng wu wei	92
+
+# 异虫蝇科
+异虫蝇	yi chong ying	90
+吐刺异虫蝇	tu ci yi chong ying	89
+捕手异虫蝇	bu shou yi chong ying	89
+黏液轰炸蝇	nian ye hong zha ying	89
+坚甲异虫蝇	jian jia yi chong ying	88
+三颚异虫蝇	san e yi chong ying	88
+
+# 纳多赛特科
+纳多赛特饲育水母	na duo sai te si yu shui mu	89
+纳多赛特水母卵	na duo sai te shui mu luan	88
+纳多赛特电胞水母	na duo sai te dian bao shui mu	89
+纳多赛特水母幼体	na duo sai te shui mu you ti	88
+纳多赛特巡游水母	na duo sai te xun you shui mu	88
+
+# 其他敌人
+洞穴水蛭	dong xue shui zhi	90
+丘罗那地虱	qiu luo na di shi	89
+地虱幼体	di shi you ti	88
+赛伊纳奇电噬吸虫	sai yi na qi dian shi xi chong	87
+纳亚卡鲨虫	na ya ka sha chong	87
+瘟疫吐珠	wen yi tu zhu	88
+雷鸣蜂巢	lei ming feng chao	88
+雷鸣蜂群	lei ming feng qun	88
+科洛克王草	ke luo ke wang cao	89
+科洛克治疗荚实	ke luo ke zhi liao jia shi	88
+科洛克新芽	ke luo ke xin ya	87
+穿刺藤蔓	chuan ci teng man	87
+幽灵	you ling	88
+深渊复仇者	shen yuan fu chou zhe	89
+肉食幼虫	rou shi you chong	85
+
+# 对手科技
+巡逻机器人	xun luo ji qi ren	88
+连射炮塔	lian she pao ta	87
+推斥炮塔	tui chi pao ta	87
+狙击炮塔	ju ji pao ta	87
+粉碎者	fen sui zhe	88
+勘探者	kan tan zhe	88
+看守者	kan shou zhe	90
+BET-C采矿机	BET-C cai kuang ji	88
+
+# 岩痘感染
+岩痘幼虫	yan dou you chong	87
+岩痘搏击异虫	yan dou bo ji yi chong	87
+岩痘瘴甲异虫	yan dou zhang jia yi chong	87
+岩痘腐化者	yan dou fu hua zhe	88
+
+# 中立与友好生物
+掠夺虫	lue duo chong	92
+黄金掠夺虫	huang jin lue duo chong	91
+嗜矿异虫	shi kuang yi chong	90
+硅酸盐采集虫	gui suan yan cai ji chong	88
+飞翼蝠鲼	fei yi fu fen	88
+六翼拟蜉	liu yi ni fu	88
+蛀虫	zhu chong	87
+洞穴藤蔓	dong xue teng man	87
+脓蚤	nong zao	87
+
+# 矿石与资源
+莫尔卡石	mo er ka shi	95
+硝石	xiao shi	95
+金矿	jin kuang	94
+水银石	shui yin shi	93
+外星虫卵	wai xing chong luan	92
+铋矿	bi kuang	90
+铜石	tong shi	90
+恩诺珍珠	en nuo zhen zhu	90
+玉石	yu shi	90
+磁铁矿	ci tie kuang	90
+铀矿	you kuang	90
+红糖	hong tang	93
+压缩金块	ya suo jin kuai	91
+苦珀石	ku po shi	90
+外星化石	wai xing hua shi	89
+错误矿石	cuo wu kuang shi	88
+幻晶矿	huan jing kuang	89
+
+# 啤酒材料
+末世花	mo shi hua	88
+波洛菇	bo luo gu	88
+麦芽星	mai ya xing	88
+淀粉果	dian fen guo	88
+酵母锥	jiao mu zhui	88
+大麦球	da mai qiu	88
+
+# 任务类型
+采矿远征	cai kuang yuan zheng	95
+虫卵狩猎	chong luan shou lie	95
+现场精炼	xian chang jing lian	95
+打捞行动	da lao xing dong	95
+定点开采	ding dian kai cai	95
+护送任务	hu song ren wu	95
+清除行动	qing chu xing dong	95
+工业破坏	gong ye po huai	95
+深度扫描	shen du sao miao	94
+深潜	shen qian	96
+精英深潜	jing ying shen qian	95
+
+# 生物群系
+水晶洞穴	shui jing dong xue	93
+盐坑	yan keng	93
+真菌沼泽	zhen jun zhao ze	93
+放射性禁区	fang she xing jin qu	93
+密集生态区	mi ji sheng tai qu	93
+冰封岩层	bing feng yan ceng	93
+岩浆核心	yan jiang he xin	93
+蔚蓝荒野	wei lan huang ye	93
+空心枝干	kong xin zhi gan	93
+沙尘走廊	sha chen zou lang	93
+
+# 任务警告
+藤壶兽群	teng hu shou qun	90
+缺氧	que yang	91
+幽魂不散	you hun bu san	91
+强敌环伺	qiang di huan si	91
+噬岩体爆发	shi yan ti bao fa	90
+岩痘感染	yan dou gan ran	90
+自爆虫横行	zi bao chong heng xing	90
+螂蝇瘟疫	lang ying wen yi	90
+再生异虫	zai sheng yi chong	90
+护盾干扰	hu dun gan rao	90
+寄生虫	ji sheng chong	89
+虫群末日	chong qun mo ri	90
+对手现身	dui shou xian shen	90
+致命敌人	zhi ming di ren	90
+
+# 任务异常
+黄金异虫	huang jin yi chong	90
+致命弱点	zhi ming ruo dian	90
+双倍经验	shuang bei jing yan	90
+低重力	di zhong li	90
+浓厚大气	nong hou da qi	89
+易爆内脏	yi bao nei zang	89
+矿石狂热	kuang shi kuang re	89
+
+# 设施与工具
+矿骡	kuang luo	96
+迷你矿骡	mi ni kuang luo	94
+多莉塔	duo li ta	95
+多蒂	duo di	93
+精炼厂	jing lian chang	92
+管道	guan dao	91
+抽油泵	chou you beng	91
+数据上传站	shu ju shang chuan zhan	90
+燃料电池	ran liao dian chi	90
+数据存储点	shu ju cun chu dian	90
+入侵舱	ru qin cang	90
+数据架	shu ju jia	89
+
+# 啤酒
+异虫猛击	yi chong meng ji	88
+爱叶者特调	ai ye zhe te tiao	90
+油腻呆子	you ni dai zi	88
+莫尔卡烈酒	mo er ka lie jiu	88
+碎颅烈酒	sui lu lie jiu	88
+红岩暴君	hong yan bao jun	88
+岩石山脉	yan shi shan mai	88
+断片烈酒	duan pian lie jiu	89
+肠胃破坏者	chang wei po huai zhe	88
+残杀黑啤	can sha hei pi	88
+黑色墨菱	hei se mo ling	88
+湖中金波	hu zhong jin bo	88
+坑道老鼠	keng dao lao shu	88
+螂蝇麦酒	lang ying mai jiu	87
+暗黑莫尔卡	an hei mo er ka	87
+丘下豪华	qiu xia hao hua	87
+虫洞特调	chong dong te tiao	88
+阿肯烈酒	a ken lie jiu	88
+燃烧之爱	ran shao zhi ai	88
+
+# 升级系统
+超频	chao pin	95
+模组	mo zu	94
+特技	te ji	94
+主动特技	zhu dong te ji	93
+被动特技	bei dong te ji	93
+升级	sheng ji	94
+蓝图	lan tu	94
+空白核心	kong bai he xin	92
+矩阵核心	ju zhen he xin	92
+外观	wai guan	92
+护甲	hu jia	93
+镐头部件	gao tou bu jian	91
+胜利动作	sheng li dong zuo	90
+战斗通行证	zhan dou tong xing zheng	90
+
+# 玩家等级
+绿胡子	lv hu zi	92
+灰胡子	hui hu zi	92
+晋升	jin sheng	94
+铜牌	tong pai	90
+银牌	yin pai	90
+金牌	jin pai	90
+白金	bai jin	90
+钻石	zuan shi	90
+传奇	chuan qi	91
+
+# 危险等级
+危险等级	wei xian deng ji	93
+噩梦	e meng	89
+
+# 常用口号
+为了卡尔	wei le ka er	95
+石头与岩石	shi tou yu yan shi	95
+黄金	huang jin	90
+如果你不石头	ru guo ni bu shi tou	85
+那你就石头不够	na ni jiu shi tou bu gou	85
+离我们近一点莫莉	li wo men jin yi dian mo li	88
